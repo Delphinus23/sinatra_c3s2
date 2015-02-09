@@ -28,8 +28,7 @@ end
 # get '/' do
 #   erb :form
 # end
-
-# post '/' do
+# post '/' do 
 #   @name = params[:user_name]
 #   @age  = params[:user_age].to_i
 
